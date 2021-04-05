@@ -1,0 +1,116 @@
+body{
+    margin:0;
+    padding:0;
+    background:linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url('../img/network-marketing-featured-image.jpg');
+    background-repeat: no-repeat;
+    /* background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../img/network-bg.jpg") center center; */
+    background-size: cover;
+    min-height:100vh;
+}
+.header{
+    padding:10px 30px;
+    background-color:#333;
+    width:100%;
+    box-sizing:border-box;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+span.logo{
+    color:#fff;
+    font-weight:bold;
+    font-size:30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar {
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#444444;
+  }
+  
+  .navbar ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+  }
+  
+  .navbar li {
+    position: relative;
+  }
+  
+  .navbar > ul > li {
+    white-space: nowrap;
+    padding: 10px 0 10px 24px;
+  }
+  
+  .navbar a {
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    font-size: 15px;
+    padding: 0 4px;
+    white-space: nowrap;
+    transition: 0.3s;
+    letter-spacing: 0.4px;
+    position: relative;
+  }
+  
+  .navbar a i {
+    font-size: 12px;
+    line-height: 0;
+    margin-left: 5px;
+  }
+  
+  .navbar > ul > li > a:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -6px;
+    left: 0;
+    background-color: #e43c5c;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out 0s;
+  }
+  
+  .navbar a:hover:before, .navbar li:hover > a:before, .navbar .active:before {
+    visibility: visible;
+    transform: scaleX(1);
+  }
+  
+  .navbar a:hover, .navbar .active, .navbar li:hover > a {
+    color: #fff;
+  }
+  
+  .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
+    color: #e43c5c;
+  }
+  
+  .navbar .dropdown:hover > ul {
+    opacity: 1;
+    top: 100%;
+    visibility: visible;
+  }
+
+  .logo{
+      color:#fff;
+      font-family:Poppins;
+  }
+/* .breadcrumb{
+    background-color:#cccccc;
+    color:#333333;
+}
+.breadcrumb a{
+    color:#333333;
+} */
+.row{
+    box-sizing:border-box;
+}
+/* .col-md-3{
+    margin-left:5px;
+} */

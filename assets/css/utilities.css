@@ -1,0 +1,54 @@
+/* color schema */
+
+.--bg-one{
+    background-color:#d01d3f !important;
+    border-color:#d01d3f !important;
+}
+
+.--bg-two{
+    background-color:#e9607a !important; 
+}
+
+.--bg-three{
+    background-color:#e43c5c !important;
+}
+
+.--bg-black{
+    background-color:rgba(0, 0, 0, 0.9) !important;
+}
+
+.--c-d-blue{
+    color:#0d6efd !important;
+}
+.--c-d-pink{
+    color:#e9607a !important; 
+}
+/* color for badges */
+.--bg-light-pink{
+    background:rgba(228, 60, 92,.9) !important;
+}
+.--grd{
+    background: linear-gradient(-90deg, blue, rgb(13, 110, 253,.8)) !important;
+    border-color:none;
+}
+
+.--grd-pinky{
+    background: linear-gradient(-260deg, #d01d3f, rgba(228, 60, 92,.9)) !important;
+    border-color:none !important;
+    border-radius:10px !important;
+}
+
+.transparent-bg{
+    background:transparent !important;
+}
+
+/* for bootstrap breadcrumbs */
+.r-text-decoration{
+    text-decoration:none !important;
+}
+
+/* rgb(208, 29, 63)
+
+#e43c5c
+
+rgb(228, 60, 92) */

@@ -1,0 +1,76 @@
+/* i will later add fade in animation to the loader */
+body{
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8));
+    background-size:cover;
+    background-repeat:no-repeat;
+    width:100%;
+    height:100vh;
+    font-family: "Open Sans", sans-serif;
+    /* animation */
+    animation: fadeIn ease 8s;
+    -webkit-animation: fadeIn ease 8s;
+    /* -moz-animation: fadeIn ease 20s;
+    -o-animation: fadeIn ease 20s;
+    -ms-animation: fadeIn ease 20s; */
+}
+.loader-wrapper{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.loader-text h4{
+    color:#ffffff;
+    text-align:center;
+    font-size:20px;
+}
+.loader {
+    border: 4px solid #3498db;
+    border-radius: 50%;
+    border-top: 4px solid #f3f3f3;
+    width:90px;
+    height: 90px;
+    -webkit-animation: spin 1s linear infinite; /* Safari */
+    animation: spin 1s linear infinite;
+    margin:auto;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  @keyframes fadeIn {
+    0% {opacity:1;}
+    100% {opacity:0;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
