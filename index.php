@@ -156,7 +156,7 @@ include("./forms/userLogin.php");
           <h3>Learn More <span>About Us</span></h3>
         </div>
 
-        <div class="row content">
+        <div class="row content sm-py-4" style="border:2px solid red;">
           <div class="col-lg-6-offset">
             <p style="text-align:justify;">
               Network marketing at ease comprises of a body of professional network marketers that discharge the responsibility of building the jobless youths and adults on how they can promote product and services of certain companies to attain their financial freedom hence, become affluent through the remuneration beign collected from such companies.
