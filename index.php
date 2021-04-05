@@ -295,7 +295,8 @@ include("./forms/userLogin.php");
     </section><!-- End Pricing Section -->
 
     <!-- ======= F.A.Q Section ======= -->
-    <section id="faq" class="faq">
+    <!---------------------------------------------------- FAQ is not working ----------------------------------------->
+    <section id="faq" class="faq" style="display:none;">
       <div class="container">
 
         <div class="section-title">
@@ -357,6 +358,9 @@ include("./forms/userLogin.php");
 
       </div>
     </section><!-- End F.A.Q Section -->
+
+
+    
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -477,7 +481,6 @@ include("./forms/userLogin.php");
 		minTime: 5000 // 3s seconds delay
 	});
 </script> -->
-
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
 
