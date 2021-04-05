@@ -158,11 +158,11 @@ include("./forms/userLogin.php");
 
         <div class="row content lg-py-0 py-4">
           <div class="col-lg-6-offset">
-            <p style="padding:10px;text-align:justify;">
+            <p style="padding:15px;text-align:justify;">
               Network marketing at ease comprises of a body of professional network marketers that discharge the responsibility of building the jobless youths and adults on how they can promote product and services of certain companies to attain their financial freedom hence, become affluent through the remuneration beign collected from such companies.
             </p>
-            <p style="padding:10px;text-align:justify;"> we produce and empower self reliant network marketersby so doing the learners will have gained practical experience from instructions and orders given by our teaching aids</p>
-            <ul style="padding:10px;text-align:justify;">
+            <p style="padding:15px;text-align:justify;"> we produce and empower self reliant network marketersby so doing the learners will have gained practical experience from instructions and orders given by our teaching aids</p>
+            <ul style="padding:15px;">
               <li><i class="ri-check-double-line"></i> Reward your recruiting efforts.</li>
               <li><i class="ri-check-double-line"></i> Always provide the latest information on corporate changes and goals.</li>
               <li><i class="ri-check-double-line"></i>Consistent communication and support</li>
