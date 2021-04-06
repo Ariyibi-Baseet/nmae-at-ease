@@ -98,8 +98,8 @@ include("./forms/userLogin.php");
           </button>
         </div>
         <div class="modal-body">
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfK5d5erp8gfhLWns8HBO-ZI4AJDgzOKNTtOD1-W-VKYCKPLg/viewform?embedded=true" width="480" height="520" style="overflow:initial;" frameborder="0" marginheight="0" marginwidth="0" style="overflow-y:scroll;box-sizing: content-box;">Loading…</iframe>
-        <span style="color:red;">Note: </span> After filling the form, you will have to pay a sum of <span style="font-weight:bold;">N1,750</span> to <span style="font-weight:bold;">Blossom Nigeria limited.</span> Account number : <span style="font-weight:bold;">00298752</span>, Bank name : <span style="font-weight:bold;">Sterling</span> and send proof of payment to <i class='bx bxs-hand-right'></i> <a href="https://chat.whatsapp.com/B8dgvlBrk9kExHYc5AUzJl">NMAE PROOF OF PAYMENT </a>our whatsapp handle for confirmation, afterwhich an id code will be sent to you via email for login passcode.
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfK5d5erp8gfhLWns8HBO-ZI4AJDgzOKNTtOD1-W-VKYCKPLg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="box-sizing:content-box;width:100%;height:100%;">Loading…</iframe>
+        <span style="color:red;">Note: </span> After filling the form, you will have to pay a sum of <span style="font-weight:bold;">N1,750</span> to <span style="font-weight:bold;">BLOSSOM INTEGRATED BUSINESS.</span> Account number : <span style="font-weight:bold;">0066946015</span>, Bank name : <span style="font-weight:bold;">Sterling Bank</span> and send proof of payment to <i class='bx bxs-hand-right'></i> <a href="https://chat.whatsapp.com/KLkihfsZ8PpAc8fLEAPCjT">NMAE POP </a>our whatsapp handle for confirmation, afterwhich an id code will be sent to you via email for login passcode.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -159,9 +159,9 @@ include("./forms/userLogin.php");
         <div class="row content lg-py-0 py-4">
           <div class="col-lg-6-offset">
             <p style="padding:15px;text-align:justify;">
-              Network marketing at ease comprises of a body of professional network marketers that discharge the responsibility of building the jobless youths and adults on how they can promote product and services of certain companies to attain their financial freedom hence, become affluent through the remuneration beign collected from such companies.
+              Network marketing at ease comprises of a body of professional network marketers that discharge the responsibility of building the jobless youths and adults on how they can promote products and services of certain companies to attain their financial freedom hence, become affluent through the remuneration being collected from such companies.
             </p>
-            <p style="padding:15px;text-align:justify;"> we produce and empower self reliant network marketersby so doing the learners will have gained practical experience from instructions and orders given by our teaching aids</p>
+            <p style="padding:15px;text-align:justify;"> We produce and empower self reliant network Marketers, by so doing, the Learners will have gained practical experience from instructions and orders given by our teaching aids</p>
             <ul style="padding:15px;">
               <li><i class="ri-check-double-line"></i> Reward your recruiting efforts.</li>
               <li><i class="ri-check-double-line"></i> Always provide the latest information on corporate changes and goals.</li>
@@ -187,7 +187,7 @@ include("./forms/userLogin.php");
             <div class="icon-box">
               <div class="icon"><i class='bx bx-group'></i></div>
               <h4 class="title"><a href="">One-on-one tutorials</a></h4>
-              <p class="description">We teach people directly to become a successful network marketer within a short period of time at affordable charges</p>
+              <p class="description">We teach people directly to become a successful network Marketer within a short period of time at affordable charges</p>
             </div>
           </div>
 
@@ -195,7 +195,7 @@ include("./forms/userLogin.php");
             <div class="icon-box">
               <div class="icon"><i class='bx bxs-book-content'></i></div>
               <h4 class="title"><a href="">Network Kits</a></h4>
-              <p class="description">We sell out some articles/kits to a would-be network marketer for learning because, the more they learn, the more they earn. </p>
+              <p class="description">We sell out some articles/kits to a would-be network Marketer for learning because, the more they learn, the more they earn. </p>
             </div>
           </div>
 
@@ -203,7 +203,7 @@ include("./forms/userLogin.php");
             <div class="icon-box">
               <div class="icon"><i class='bx bx-user-voice'></i></div>
               <h4 class="title"><a href="">Counselling</a></h4>
-              <p class="description">We give viable counsellings to such network marketerd that encounter problem in their careers. if these people narrates their challenges to us we help them solve those challenges at affordable charges.</p>
+              <p class="description">We give viable counsellings to such network Marketers that encounter problem in their careers. If these people narrate their challenges to us we help them solve those challenges at affordable charges.</p>
             </div>
           </div>
 
@@ -218,7 +218,7 @@ include("./forms/userLogin.php");
         <div class="text-center">
           <h3>Call To Action</h3>
           <p> "if somebody offers you an amazing opportunity but you are not sure you can do it, say yes-then learn how to do it later"
-            <br><span style="font-weight:bold;">- Richard branson</span></p>
+            <br><span style="font-weight:bold;">- Richard Branson</span></p>
         </div>
 
       </div>
@@ -231,7 +231,7 @@ include("./forms/userLogin.php");
         <div class="section-title">
           <h2>Pricing</h2>
           <h3>Our Competing <span>Prices</span></h3>
-          <p>to prove our sincerity of purpose, we make our pricing very affordable to all and sundry.</p>
+          <p>To prove our sincerity of purpose, we make our pricing very affordable to all and sundry.</p>
         </div>
 
         <div class="row">
@@ -262,9 +262,6 @@ include("./forms/userLogin.php");
               <ul>
                 <li>Duration: four months</li>
                 <li>Nature : a two-hour once a week tutorial</li>
-                <!-- <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li> -->
               </ul>
               <div class="btn-wrap">
                 <a href="#" class="btn-buy">Join Now</a>
@@ -280,8 +277,6 @@ include("./forms/userLogin.php");
                 <li>Duration: Six weeks</li>
                 <li>Nature : a two-hour twice a week tutorial</li>
                 <li>1:5 Tutorial i.e One tutor to teach five students</li>
-                <!-- <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li> -->
               </ul>
               <div class="btn-wrap">
                 <a href="#" class="btn-buy">Join Now</a>
@@ -310,16 +305,16 @@ include("./forms/userLogin.php");
             <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">What is Network Marketing? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq1" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Network marketing is a business model that depends on person-to-person sales by independent representatives (individuals), often working from home or particular places.
+                Network marketing is a business model that depends on person-to-person sales by independent Representatives (individuals), often working from home or particular places.
               </p>
             </div>
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">How can i register for this program? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">How can I register for this program? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
               <p>
-                  You can become one of the beneficiary of this program by clicking on 'Sign up' at the top navbar and fill out the form correctly.Then you will pay an amount of 1,500 and after the confirmation, an id code will be sent to you between 12/24hrs.<br> <span class="warning">Note:</span> you have to be careful not to loose the id code because its the passcode for you to login on our platform.
+                  You can become one of the beneficiaries of this program by clicking on 'Sign up' at the top navigational bar and fill out the form correctly.Then you will pay an amount of 1,750 and after the confirmation, an Id code will be sent to you between 12- 24hrs.<br> <span class="warning">Note:</span> You have to be careful not to loose the Id code because It is the passcode for you to login on our platform.
               </p>
             </div>
           </li>
@@ -331,8 +326,8 @@ include("./forms/userLogin.php");
                 Very simple! you have two tasks ahead: <br>
                 1. Invitation <br>
                 2. Monitoring <br>
-                By invitation you are required to invite three positive-minded people that will equally register as you did, with 1,500 each. <br>
-                By monitoring task, you have to gear-up the three people you registered to get their three people registered as well until then, your task of monitoring is not completed.
+                By invitation you are required to invite three positive-minded People that will equally register as you did, with 1,750 each. <br>
+                By monitoring task, you have to gear-up the three People you registered to get their three people registered as well until then, your task of monitoring is not completed.
               </p>
             </div>
           </li>
@@ -341,16 +336,16 @@ include("./forms/userLogin.php");
             <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">What is my reward at the completion of my task? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq4" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Its quite easy!. At the completion of your task, you will be rewarded with huge amount ten thousand naira (N1000).
+                It is quite easy!. At the completion of your task, you will be rewarded with huge amount of Ten thousand naira (N10,000).
               </p>
             </div>
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">How can i collect my Monetary Rewards? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">How can I collect my Monetary Rewards? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq5" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Your monetary reward of ten thousand naira will be transfered to your bank account, as filled in your form. <br> <span class="warning">Note:</span> a deduction of N200 will be used for transfer and office maintenance charges
+                Your monetary rewards of Ten thousand naira will be transfered to your bank account, as filled in your form. <br> <span class="warning">Note:</span> a deduction of N200 will be used for transfer and office maintenance charges.
               </p>
             </div>
           </li>
@@ -369,7 +364,7 @@ include("./forms/userLogin.php");
         <div class="section-title">
           <h2>Contact</h2>
           <h3>Contact <span>Us</span></h3>
-          <p>For further enquiries about this program, that have not reflexed in the aboe FAQ, you are hereby urge to forward your question to us, via our contact</p>
+          <p>For further enquiries about this program, that have not reflexed in the above FAQ, you are hereby urged to forward your question to us, via our contact</p>
         </div>
 
         <!--============================== i will later embed google map of Lipede here =====================================-->
@@ -384,7 +379,7 @@ include("./forms/userLogin.php");
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Shop 415 Oba lipede Ultra modern market, kuto, Abeokuta, Ogun State, Nigeria</p>
+                <p>Shop 415 Oba lipede Ultra Modern market, Kuto, Abeokuta, Ogun State, Nigeria</p>
               </div>
 
               <div class="email">
@@ -396,7 +391,7 @@ include("./forms/userLogin.php");
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+234 8184097948,</p>
+                <p>+234 8184097948</p>
               </div>
 
             </div>
@@ -466,6 +461,7 @@ include("./forms/userLogin.php");
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -473,14 +469,7 @@ include("./forms/userLogin.php");
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <!-- <script src="./assets/vendor/JqueryPreloader/jquery.js"></script> -->
 
-<!-- <script src="./assets/vendor/JqueryPreloader/dist/js/jquery.preloadinator.min.js"></script>
-<script>
-	$('.js-preloader').preloadinator({
-		minTime: 5000 // 3s seconds delay
-	});
-</script> -->
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
 
