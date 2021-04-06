@@ -99,7 +99,7 @@ include("./forms/userLogin.php");
         </div>
         <div class="modal-body">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfK5d5erp8gfhLWns8HBO-ZI4AJDgzOKNTtOD1-W-VKYCKPLg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="box-sizing:content-box;width:100%;height:100%;">Loading…</iframe>
-        <span style="color:red;">Note: </span> After filling the form, you will have to pay a sum of <span style="font-weight:bold;">N1,750</span> to <span style="font-weight:bold;">BLOSSOM INTEGRATED BUSINESS.</span> Account number : <span style="font-weight:bold;">0066946015</span>, Bank name : <span style="font-weight:bold;">Sterling Bank</span> and send proof of payment to <i class='bx bxs-hand-right'></i> <a href="https://chat.whatsapp.com/KLkihfsZ8PpAc8fLEAPCjT">NMAE POP </a>our whatsapp handle for confirmation, afterwhich an id code will be sent to you via email for login passcode.
+        <div style="text-align:justify;"><span style="color:red;">Note: </span> After filling the form, you will have to pay a sum of <span style="font-weight:bold;">N1,750</span> to <span style="font-weight:bold;">BLOSSOM INTEGRATED BUSINESS.</span> Account number : <span style="font-weight:bold;">0066946015</span>, Bank name : <span style="font-weight:bold;">Sterling Bank</span> and send proof of payment to <i class='bx bxs-hand-right'></i> <a href="https://chat.whatsapp.com/KLkihfsZ8PpAc8fLEAPCjT">NMAE POP </a>our whatsapp handle for confirmation, afterwhich an id code will be sent to you via email for login passcode.</div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
