@@ -1,0 +1,15 @@
+CLEARDB MYSQL ADD-ON
+system information details:
+access credentials
+
+username: b427cacc52ea8a
+password: d732a8e0
+
+
+
+
+b427cacc52ea8a
+
+d732a8e0
+
+eu-cdbr-west-01.cleardb.com
